@@ -14,7 +14,8 @@ below are the images of database for that very feature
   
 ![search](https://user-images.githubusercontent.com/41308248/49314844-906ff080-f4a0-11e8-95d8-d1c852d86f3d.PNG)
   
-## code for how the values are being fetched and changes when the option changes
+## Code for how the values are being fetched and changes with the change in option.
+
 ![load data](https://user-images.githubusercontent.com/41308248/49315185-94e8d900-f4a1-11e8-8de7-97753e63e690.PNG)
 
 ![callfunction](https://user-images.githubusercontent.com/41308248/49315186-94e8d900-f4a1-11e8-8bad-897c906bf30a.PNG)
@@ -26,37 +27,21 @@ below are the images of database for that very feature
   
   
 ## Things that well
-#### 1.Database Design and Implementaion
-#### 2.Database visualisation using fusion charts.
+#### 1.The feature is working fine and the values changes according to the option.
+
 
 ## Things that didnt went well/minor issues
 
-#### 1.The visualisation of different suggested medicines according to the specific health problem type.
-#### 2.Creation of tables inside a user database when the user signup.
+#### 1.Having some issues with the responsiveness of the charts.
+#### 2.For showing similar results I wanted to visualise using charts but its giving issues on the server side.
 
 ## Interesting Things
-The fusion charts map feature can be used to show and which medicines are trending in different regions of the world.We tried it
-using our local database.It was working somewhat fine but the data needs to be legit.We might add this feature if the project finishes before the planned deadline but for now its going somewhat behind the schedule so we might not add that.
-
+Fusion charts has an interestign feature which allows us to use a chart and upon click a charts specific component it will refer to another chart.Its a very interesting feature and will be useful when the data is large and need to be combined according to the types.
 
 # NEXT WEEK TO DO'S
 
-#### Making the new decided features up and working.
-#### Debug the glitches and errors(regarding the database).
-#### The data from mysql is shown in front end(a bug which messes the responsiveness of the page).
+#### 1.Making the charts resposive
+#### 2.CSS Styling
+#### 3.Integrating the landing page.        
 
-# Backlog
-
-#### making the features of the project ready
-#### Data visualisation
-
-![signin](https://user-images.githubusercontent.com/41308248/48965652-4190fb00-ef76-11e8-8dc9-243eb0420afa.JPG)
-
-![scaled-dashboard](https://user-images.githubusercontent.com/41308248/48965662-7735e400-ef76-11e8-97db-793a3e9815e5.PNG)
-
-![scaled-dashboard-mobile](https://user-images.githubusercontent.com/41308248/48965670-874dc380-ef76-11e8-9e9f-149678688d7c.PNG)
-
-![tabetview](https://user-images.githubusercontent.com/41308248/48965674-90d72b80-ef76-11e8-9d32-440fef15e66d.png)
-
-![tabletview2](https://user-images.githubusercontent.com/41308248/48965676-9df41a80-ef76-11e8-907c-e3e2871cf6a8.PNG)
 
