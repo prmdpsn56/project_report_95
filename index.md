@@ -12,6 +12,9 @@ below are the images of database for that very feature
 
 ##### The problem column acts as a primary key in one table and foreign key in the other and serves as a connection between them.
   
+![search](https://user-images.githubusercontent.com/41308248/49314844-906ff080-f4a0-11e8-95d8-d1c852d86f3d.PNG)
+  
+  
 ## Things that well
 #### 1.Database Design and Implementaion
 #### 2.Database visualisation using fusion charts.
