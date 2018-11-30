@@ -14,6 +14,16 @@ below are the images of database for that very feature
   
 ![search](https://user-images.githubusercontent.com/41308248/49314844-906ff080-f4a0-11e8-95d8-d1c852d86f3d.PNG)
   
+## code for how the values are being fetched and changes when the option changes
+![load data](https://user-images.githubusercontent.com/41308248/49315185-94e8d900-f4a1-11e8-8de7-97753e63e690.PNG)
+
+![callfunction](https://user-images.githubusercontent.com/41308248/49315186-94e8d900-f4a1-11e8-8bad-897c906bf30a.PNG)
+
+![showsimilar](https://user-images.githubusercontent.com/41308248/49315187-94e8d900-f4a1-11e8-94e8-8db53e996a4e.PNG)
+
+![script](https://user-images.githubusercontent.com/41308248/49315188-95816f80-f4a1-11e8-81dd-c2f36c55db27.PNG)
+
+  
   
 ## Things that well
 #### 1.Database Design and Implementaion
