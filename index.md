@@ -38,10 +38,11 @@ below are the images of database for that very feature
 ## Interesting Things
 Fusion charts has an interestign feature which allows us to use a chart and upon click a charts specific component it will refer to another chart.Its a very interesting feature and will be useful when the data is large and need to be combined according to the types.
 
-# NEXT WEEK TO DO'S
+# Next Week to Do's
 
 #### 1.Making the charts resposive
 #### 2.CSS Styling
 #### 3.Integrating the landing page.        
 
+![trello](https://user-images.githubusercontent.com/41308248/49319209-95d53700-f4b0-11e8-9c04-86816ead0d1a.JPG)
 
