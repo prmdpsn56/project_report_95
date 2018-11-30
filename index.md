@@ -7,6 +7,7 @@ This week I was working on the making a component that would show user the simil
 below are the images of database for that very feature
 
 ![medicine table](https://user-images.githubusercontent.com/41308248/49314069-25251f00-f49e-11e8-9ed4-fce32a919768.JPG)
+
 ![problems](https://user-images.githubusercontent.com/41308248/49314071-25bdb580-f49e-11e8-9ee3-3fbe9cdbe77d.JPG)
 
 ##### The problem column acts as a primary key in one table and foreign key in the other and serves as a connection between them.
