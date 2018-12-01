@@ -42,7 +42,9 @@ Fusion charts has an interestign feature which allows us to use a chart and upon
 
 #### 1.Making the charts resposive
 #### 2.CSS Styling
-#### 3.Integrating the landing page.        
+#### 3.Integrating the landing page.  
+
+## Backlog
 
 ![trello](https://user-images.githubusercontent.com/41308248/49319209-95d53700-f4b0-11e8-9c04-86816ead0d1a.JPG)
 
